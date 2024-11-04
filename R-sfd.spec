@@ -7,7 +7,7 @@
 #
 Name     : R-sfd
 Version  : 0.1.0
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/sfd_0.1.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/sfd_0.1.0.tar.gz
 Summary  : Space-Filling Design Library
